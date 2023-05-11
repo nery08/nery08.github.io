@@ -1,0 +1,3 @@
+All _icon images (net_icon.png, polar_bear_trash.png and trash_on_beach.png) are adaptations of full images (jpg files) provided.
+
+post_logo.png was supplied by POST. No copyright attribution needed.
